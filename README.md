@@ -31,7 +31,7 @@ This repository is provided **"as is"**, without warranty of any kind. The autho
 
 If you have questions about usage, licensing, or contributions, feel free to contact:
 
-**Raf Wuytjens - Direcgtor ItDevOPS bv**  
-GitHub: @yRafItDevOPS
+**Raf Wuytjens - Director ItDevOPS bv**  
+GitHub: @RafItDevOPS
 Email: raf@itdevops.be
 
