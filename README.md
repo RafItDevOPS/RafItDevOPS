@@ -1,7 +1,7 @@
 
 📁 All ITDEVOPS Repositories
 
-Welcome to this repository! This project contains files, code, or other materials created and maintained by [Your Name or Organization].
+Welcome to this repository! This project contains files, code, or other materials created or maintained by ItDevOPS bv.
 
 ## 📜 Terms of Use
 
